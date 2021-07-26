@@ -2,92 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffd29e1e-b03d-447d-b216-8a7355965824" name="Default Changelist" comment="1232">
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter7/demo.7.2.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter8/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter8/demo8.2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter8/demo8.3.1.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter8/demo8.3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter8/demo8.3.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter8/demo8.3.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter8/demo8.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter8/demo8.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter8/extraDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/dd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.2.1.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.5.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.6.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.6.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.6.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.6.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.6.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.6.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.6.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.6.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.7.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.7.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.7.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.7.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/demo9.7.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/objectDmeo/BirdDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/objectDmeo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/objectDmeo/object1_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/objectDmeo/object2Demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/objectDmeo/object3Dmeo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/objectDmeo/objectDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/objectDmeo/selfTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/objectDmeo/son1Demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/objectDmeo/sonDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_Python/objectDmeo/testMRO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/autoDemo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/autoDemo/dumpDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/autoDemo/loadDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/file_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/file_demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/json_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/json_module_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/number.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/number_text_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/number_text_demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/openFileDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/os_module_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/somefile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/sys_module_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_python_demo/time_module_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfresh_Python/Import_demo/file_directory/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfresh_Python/Import_demo/file_directory/auto_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfresh_Python/Import_demo/file_directory/debug_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfresh_Python/Import_demo/file_directory/extfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfresh_Python/Import_demo/file_directory/fordata_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfresh_Python/Import_demo/file_directory/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfresh_Python/Import_demo/file_directory/login_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfresh_Python/Import_demo/file_directory/test_file_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfresh_Python/Import_demo/file_directory/testfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo/decorator7_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo/decorator8_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo/decorator9_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/demo10.1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/dequeDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/fileinputDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/heapDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/osDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/randomDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/randomExampeDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/set1Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/setDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/shelveDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/sysDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/time_modules_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter10/webbrowserDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Python/chapter9/test6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_manual/chapter4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_manual/chapter4/chapter4_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_manual/chapter4/p1_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_manual/chapter4/p2_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_manual/chapter4/p3_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_manual/chapter4/p4_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_learning_manual/chapter4/p5_demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Python/chapter7/demo7.2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Python/chapter7/demo7.2.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Python/chapter7/demo7.2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Python/chapter7/demo7.2.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Python/chapter7/demo7.2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Python/chapter7/demo7.2.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rfresh_Python/Import_demo/list_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/rfresh_Python/Import_demo/list_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay21_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay21_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay22_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/rfresh_Python/chapter4_demo/StudyDay22_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_python_demo/time_module_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/auto_python_demo/time_module_demo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -243,6 +184,9 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PythonProject" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -268,14 +212,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Basic_Python/objectDmeo/selfTest.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Basic_Python/chapter9/test1.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Basic_Python/chapter9/demo9.6.8.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Basic_Python/chapter9/test2.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Basic_Python/chapter9/test3.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Basic_Python/chapter7/demo7.2.4.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Basic_Python/chapter9/test5.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/python_learning_manual/chapter4/p2_demo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/python_learning_manual/chapter4/p7_demo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/python_learning_manual/chapter4/p6_demo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basic_Python/chapter9/test6.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basic_Python/chapter10/__init__.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basic_Python/chapter10/hello.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basic_Python/chapter10/test.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basic_Python/chapter10/osDemo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basic_Python/objectDmeo/objectDemo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basic_Python/objectDmeo/selfTest.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basic_Python/chapter10/heapDemo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basic_Python/chapter7/demo7.2.4.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Basic_Python/objectDmeo/son1Demo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basic_Python/chapter10/randomExampeDemo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com/demo1.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Basic_Python/objectDmeo/object2Demo.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Basic_Python/objectDmeo/object3Dmeo.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Basic_Python/chapter7/demo.7.2.6.py" root0="SKIP_HIGHLIGHTING" />
@@ -290,16 +246,17 @@
     <setting file="file://$PROJECT_DIR$/Basic_Python/chapter9/demo9.7.2.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Basic_Python/chapter9/demo9.2.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Basic_Python/objectDmeo/BirdDemo.py" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Basic_Python/objectDmeo/objectDemo.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/python_learning_manual/chapter4/p3_demo.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1oVZEpU0nZy80GZEuMHkxthoo9u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/rfresh_Python/chapter4_demo/decorator_demo" />
+    <property name="last_opened_file_path" value="F:/0636920028154-master" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -315,11 +272,11 @@
       <recent name="D:\PythonProject\Basic_Python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonProject\python_learning_manual\chapter4" />
       <recent name="D:\PythonProject\Basic_Python\objectDmeo" />
       <recent name="D:\PythonProject\rfresh_Python\Import_demo\file_directory" />
       <recent name="D:\PythonProject\Basic_Python\chapter5\package_name" />
       <recent name="D:\PythonProject\Basic_Python\chapter4" />
-      <recent name="D:\PythonProject\Basic_Python\chapter1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -334,8 +291,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test5">
-    <configuration name="dd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.p7_demo">
+    <configuration name="p3_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,12 +300,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic_Python/chapter9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning_manual/chapter4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic_Python/chapter9/dd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_manual/chapter4/p3_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,7 +314,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p4_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -365,12 +322,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic_Python/chapter9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning_manual/chapter4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic_Python/chapter9/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_manual/chapter4/p4_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,7 +336,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p5_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -387,12 +344,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic_Python/chapter9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning_manual/chapter4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic_Python/chapter9/test3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_manual/chapter4/p5_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -401,7 +358,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p6_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -409,12 +366,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic_Python/chapter9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning_manual/chapter4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic_Python/chapter9/test4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_manual/chapter4/p6_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -423,7 +380,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p7_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -431,12 +388,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic_Python/chapter9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning_manual/chapter4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic_Python/chapter9/test5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning_manual/chapter4/p7_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -446,19 +403,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test2" />
-      <item itemvalue="Python.test3" />
-      <item itemvalue="Python.test4" />
-      <item itemvalue="Python.dd" />
-      <item itemvalue="Python.test5" />
+      <item itemvalue="Python.p3_demo" />
+      <item itemvalue="Python.p4_demo" />
+      <item itemvalue="Python.p5_demo" />
+      <item itemvalue="Python.p6_demo" />
+      <item itemvalue="Python.p7_demo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test5" />
-        <item itemvalue="Python.test4" />
-        <item itemvalue="Python.dd" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.p7_demo" />
+        <item itemvalue="Python.p6_demo" />
+        <item itemvalue="Python.p5_demo" />
+        <item itemvalue="Python.p4_demo" />
+        <item itemvalue="Python.p3_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -654,6 +611,45 @@
       <workItem from="1622212636657" duration="1508000" />
       <workItem from="1622267158496" duration="594000" />
       <workItem from="1622353836608" duration="6453000" />
+      <workItem from="1622470988857" duration="3724000" />
+      <workItem from="1622558148719" duration="1518000" />
+      <workItem from="1622642529582" duration="6115000" />
+      <workItem from="1622731586618" duration="634000" />
+      <workItem from="1622816187920" duration="652000" />
+      <workItem from="1622968704053" duration="1400000" />
+      <workItem from="1623074357383" duration="3278000" />
+      <workItem from="1623248082038" duration="5772000" />
+      <workItem from="1623334906573" duration="664000" />
+      <workItem from="1623482458406" duration="746000" />
+      <workItem from="1623659436459" duration="4425000" />
+      <workItem from="1623766772490" duration="3955000" />
+      <workItem from="1623772216484" duration="720000" />
+      <workItem from="1623852799061" duration="2995000" />
+      <workItem from="1623857068506" duration="411000" />
+      <workItem from="1623857966840" duration="309000" />
+      <workItem from="1623858835493" duration="657000" />
+      <workItem from="1623937997691" duration="3632000" />
+      <workItem from="1624172768067" duration="1456000" />
+      <workItem from="1624284912171" duration="632000" />
+      <workItem from="1624293367293" duration="191000" />
+      <workItem from="1624459648815" duration="609000" />
+      <workItem from="1625149360439" duration="2005000" />
+      <workItem from="1625666342110" duration="2920000" />
+      <workItem from="1626102458681" duration="254000" />
+      <workItem from="1626103479069" duration="3135000" />
+      <workItem from="1626187778230" duration="4074000" />
+      <workItem from="1626274043848" duration="5407000" />
+      <workItem from="1626361535600" duration="3304000" />
+      <workItem from="1626501312769" duration="1155000" />
+      <workItem from="1626588075396" duration="4396000" />
+      <workItem from="1626620308344" duration="2528000" />
+      <workItem from="1626706862838" duration="1374000" />
+      <workItem from="1626790024434" duration="2177000" />
+      <workItem from="1626877235859" duration="620000" />
+      <workItem from="1627203971096" duration="660000" />
+      <workItem from="1627278611801" duration="4210000" />
+      <workItem from="1627283996040" duration="207000" />
+      <workItem from="1627284444965" duration="680000" />
     </task>
     <task id="LOCAL-00001" summary="1232">
       <created>1608454060862</created>
@@ -686,38 +682,56 @@
     <option name="LAST_COMMIT_MESSAGE" value="1232" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1622385547933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1622389247222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
+    <SUITE FILE_PATH="coverage/PythonProject$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1622471303641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$demo_7_2_6.coverage" NAME="demo.7.2.6 Coverage Results" MODIFIED="1619866867807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter7" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_5_5.coverage" NAME="demo9.5.5 Coverage Results" MODIFIED="1621180539321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
+    <SUITE FILE_PATH="coverage/PythonProject$randomDemo.coverage" NAME="randomDemo Coverage Results" MODIFIED="1623858959929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_6_6.coverage" NAME="demo9.6.6 Coverage Results" MODIFIED="1621262752794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_7_4.coverage" NAME="demo9.7.4 Coverage Results" MODIFIED="1621869129723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$demo7_2_2.coverage" NAME="demo7.2.2 Coverage Results" MODIFIED="1619273973614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter7" />
+    <SUITE FILE_PATH="coverage/PythonProject$p6_demo.coverage" NAME="p6_demo Coverage Results" MODIFIED="1626622648414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_manual/chapter4" />
+    <SUITE FILE_PATH="coverage/PythonProject$p5_demo.coverage" NAME="p5_demo Coverage Results" MODIFIED="1626618951831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_manual/chapter4" />
+    <SUITE FILE_PATH="coverage/PythonProject$webbrowserDemo.coverage" NAME="webbrowserDemo Coverage Results" MODIFIED="1623248365508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
+    <SUITE FILE_PATH="coverage/PythonProject$randomExampeDemo.coverage" NAME="randomExampeDemo Coverage Results" MODIFIED="1623942508489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
     <SUITE FILE_PATH="coverage/PythonProject$json_module_demo.coverage" NAME="json_module_demo Coverage Results" MODIFIED="1618325632043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_python_demo" />
     <SUITE FILE_PATH="coverage/PythonProject$demo8_3_1.coverage" NAME="demo8.3.1 Coverage Results" MODIFIED="1619933707741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter8" />
     <SUITE FILE_PATH="coverage/PythonProject$sonDemo.coverage" NAME="sonDemo Coverage Results" MODIFIED="1620744964110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/objectDmeo" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_7_1.coverage" NAME="demo9.7.1 Coverage Results" MODIFIED="1621524945676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$demo8_6.coverage" NAME="demo8.6 Coverage Results" MODIFIED="1619939897480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter8" />
+    <SUITE FILE_PATH="coverage/PythonProject$dequeDemo.coverage" NAME="dequeDemo Coverage Results" MODIFIED="1623685825724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
+    <SUITE FILE_PATH="coverage/PythonProject$p1_demo.coverage" NAME="p1_demo Coverage Results" MODIFIED="1626104773517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_manual/chapter4" />
+    <SUITE FILE_PATH="coverage/PythonProject$heapDemo.coverage" NAME="heapDemo Coverage Results" MODIFIED="1623685062939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
+    <SUITE FILE_PATH="coverage/PythonProject$time_module_demo.coverage" NAME="time_module_demo Coverage Results" MODIFIED="1623769410193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_python_demo" />
     <SUITE FILE_PATH="coverage/PythonProject$file_demo1.coverage" NAME="file_demo1 Coverage Results" MODIFIED="1618669035749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_python_demo" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_5_2.coverage" NAME="demo9.5.2 Coverage Results" MODIFIED="1620921340712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
+    <SUITE FILE_PATH="coverage/PythonProject$osDemo.coverage" NAME="osDemo Coverage Results" MODIFIED="1623249972110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
+    <SUITE FILE_PATH="coverage/PythonProject$p2_demo.coverage" NAME="p2_demo Coverage Results" MODIFIED="1626191806306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_manual/chapter4" />
+    <SUITE FILE_PATH="coverage/PythonProject$demo10_1_1.coverage" NAME="demo10.1.1 Coverage Results" MODIFIED="1622647144979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
     <SUITE FILE_PATH="coverage/PythonProject$demo7_2_4.coverage" NAME="demo7.2.4 Coverage Results" MODIFIED="1619275425008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter7" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_6_7.coverage" NAME="demo9.6.7 Coverage Results" MODIFIED="1621439799409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$demo8_3.coverage" NAME="demo8.3 Coverage Results" MODIFIED="1619934113869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter8" />
     <SUITE FILE_PATH="coverage/PythonProject$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1613373721802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/smart_python_demio" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_6_1.coverage" NAME="demo9.6.1 Coverage Results" MODIFIED="1621177530928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1622388510003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
+    <SUITE FILE_PATH="coverage/PythonProject$p7_demo.coverage" NAME="p7_demo Coverage Results" MODIFIED="1627283392635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_manual/chapter4" />
+    <SUITE FILE_PATH="coverage/PythonProject$shelveDemo.coverage" NAME="shelveDemo Coverage Results" MODIFIED="1623943102179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
     <SUITE FILE_PATH="coverage/PythonProject$Bird.coverage" NAME="Bird Coverage Results" MODIFIED="1620317072907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_3.coverage" NAME="demo9.3 Coverage Results" MODIFIED="1620574637033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
+    <SUITE FILE_PATH="coverage/PythonProject$hello.coverage" NAME="hello Coverage Results" MODIFIED="1622647109086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
+    <SUITE FILE_PATH="coverage/PythonProject$sysDemo.coverage" NAME="sysDemo Coverage Results" MODIFIED="1623076494513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
     <SUITE FILE_PATH="coverage/PythonProject$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1622385496869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_5_1.coverage" NAME="demo9.5.1 Coverage Results" MODIFIED="1620921693703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$objec2Demo.coverage" NAME="objec2Demo Coverage Results" MODIFIED="1620747741411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/objectDmeo" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_6_2_3.coverage" NAME="demo9.6.2.3 Coverage Results" MODIFIED="1621179111302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_7_2.coverage" NAME="demo9.7.2 Coverage Results" MODIFIED="1621525024427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
+    <SUITE FILE_PATH="coverage/PythonProject$fileinputDemo.coverage" NAME="fileinputDemo Coverage Results" MODIFIED="1623251735201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_5.coverage" NAME="demo9.5 Coverage Results" MODIFIED="1620921700013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$demo8_3_6.coverage" NAME="demo8.3.6 Coverage Results" MODIFIED="1619938527020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter8" />
     <SUITE FILE_PATH="coverage/PythonProject$selfTest.coverage" NAME="selfTest Coverage Results" MODIFIED="1620659419758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$demo8_3_3.coverage" NAME="demo8.3.3 Coverage Results" MODIFIED="1619934695355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter8" />
     <SUITE FILE_PATH="coverage/PythonProject$file_demo.coverage" NAME="file_demo Coverage Results" MODIFIED="1618499718395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_python_demo" />
+    <SUITE FILE_PATH="coverage/PythonProject$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1622562136354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com" />
     <SUITE FILE_PATH="coverage/PythonProject$sys_moduledemo.coverage" NAME="sys_module——demo Coverage Results" MODIFIED="1618065944957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_python_demo" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_2.coverage" NAME="demo9.2 Coverage Results" MODIFIED="1620314351635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$objectDemo.coverage" NAME="objectDemo Coverage Results" MODIFIED="1620662131812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
@@ -730,14 +744,19 @@
     <SUITE FILE_PATH="coverage/PythonProject$loadDemo.coverage" NAME="loadDemo Coverage Results" MODIFIED="1620657961547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_python_demo/autoDemo" />
     <SUITE FILE_PATH="coverage/PythonProject$number_text_demo1.coverage" NAME="number_text_demo1 Coverage Results" MODIFIED="1618671999809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_python_demo" />
     <SUITE FILE_PATH="coverage/PythonProject$dd.coverage" NAME="dd Coverage Results" MODIFIED="1622387001943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
+    <SUITE FILE_PATH="coverage/PythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1623074724532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
     <SUITE FILE_PATH="coverage/PythonProject$sys_module_demo.coverage" NAME="sys_module_demo Coverage Results" MODIFIED="1618144048423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_python_demo" />
+    <SUITE FILE_PATH="coverage/PythonProject$set1Demo.coverage" NAME="set1Demo Coverage Results" MODIFIED="1623254490842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
     <SUITE FILE_PATH="coverage/PythonProject$son1Demo.coverage" NAME="son1Demo Coverage Results" MODIFIED="1620745048980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/objectDmeo" />
+    <SUITE FILE_PATH="coverage/PythonProject$p3_demo.coverage" NAME="p3_demo Coverage Results" MODIFIED="1626277515771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_manual/chapter4" />
     <SUITE FILE_PATH="coverage/PythonProject$object3Dmeo.coverage" NAME="object3Dmeo Coverage Results" MODIFIED="1620748350901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/objectDmeo" />
     <SUITE FILE_PATH="coverage/PythonProject$json_demo.coverage" NAME="json_demo Coverage Results" MODIFIED="1618327722690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_python_demo" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_7_5.coverage" NAME="demo9.7.5 Coverage Results" MODIFIED="1622126302418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$testMRO.coverage" NAME="testMRO Coverage Results" MODIFIED="1620402099218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
+    <SUITE FILE_PATH="coverage/PythonProject$setDemo.coverage" NAME="setDemo Coverage Results" MODIFIED="1623253096421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter10" />
     <SUITE FILE_PATH="coverage/PythonProject$demo8_2_1.coverage" NAME="demo8.2.1 Coverage Results" MODIFIED="1619927626761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter8" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_2_1_1.coverage" NAME="demo9.2.1.1 Coverage Results" MODIFIED="1620402611400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
+    <SUITE FILE_PATH="coverage/PythonProject$chapter4_demo.coverage" NAME="chapter4_demo Coverage Results" MODIFIED="1626102683274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_manual" />
     <SUITE FILE_PATH="coverage/PythonProject$extraDemo.coverage" NAME="extraDemo Coverage Results" MODIFIED="1619931662790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter8" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_6.coverage" NAME="demo9.6 Coverage Results" MODIFIED="1621173672095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$number_text_demo.coverage" NAME="number_text_demo Coverage Results" MODIFIED="1618671033473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_python_demo" />
@@ -747,6 +766,8 @@
     <SUITE FILE_PATH="coverage/PythonProject$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1622127403777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
     <SUITE FILE_PATH="coverage/PythonProject$os_module_demo.coverage" NAME="os_module_demo Coverage Results" MODIFIED="1618144043227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_python_demo" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_2_1.coverage" NAME="demo9.2.1 Coverage Results" MODIFIED="1620315570506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
+    <SUITE FILE_PATH="coverage/PythonProject$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1622477237945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
+    <SUITE FILE_PATH="coverage/PythonProject$p4_demo.coverage" NAME="p4_demo Coverage Results" MODIFIED="1626365622776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_learning_manual/chapter4" />
     <SUITE FILE_PATH="coverage/PythonProject$demo9_6_4.coverage" NAME="demo9.6.4 Coverage Results" MODIFIED="1621179962259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Python/chapter9" />
   </component>
   <component name="masterDetails">

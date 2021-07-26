@@ -1,0 +1,10 @@
+from collections import deque
+q = deque(range(5))
+print(type(q))
+print("输出q的内容：", q)
+q.append(100)
+print("第一次变化：",q)
+q.insert(2,2777)
+print(q)
+q.appendleft(999)
+print("指定左边加入元素：", q)
